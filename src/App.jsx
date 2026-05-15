@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import './assets/react.svg'
-import './assets/vite.svg'
+import netflixfava from 'image/png" href="vite.png';
 
 import './App.css';
 import Header from './Components/Header/Header';
